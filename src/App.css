@@ -17,6 +17,8 @@ body {
   overflow: hidden;
 }
 
+/* src/components/sprite/m1.png */
+
 .row {
   display: 'flex';
   line-height: 32px;
